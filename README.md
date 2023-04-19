@@ -8,8 +8,7 @@
     😄 Pronouns: he/him
     
 <div align>    
-<a href="https://github.com/mouraewerton">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouraewerton&theme=dark&show_icons=true/>
+<a href="https://github.com/mouraewerton">   
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Moura-Python" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
