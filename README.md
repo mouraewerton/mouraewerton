@@ -3,7 +3,7 @@
     👋 I’m @mouraewerton
     🎓 I'm studying Data Science at UNIVESP
     👀 I’m interested in SQL, Python, Java, BI..
-    🌱 I’m currently learning Genexus, Python
+    🌱 I’m currently learning Java, Python, Genexus, POO
     💞️ I would like to collaborate with improvements
     😄 Pronouns: he/him
     
